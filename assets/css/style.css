@@ -60,3 +60,46 @@ h1, h2 {
 .active {
     border-bottom: 1px solid #FCEDDA;
 }
+
+/* Gym image */
+
+#adult-gym {
+    height: 800px;
+    width: 100%;
+    background: url('../images/adult-gym.jpg') no-repeat center center;
+
+}
+
+#cover-text, #cover-text h2 {
+    color: #FCEDDA;
+
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: Nunito+Sans, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 20px;
+    padding-left: 10px;
+
+    background-color: rgba(238, 72, 58, .5);
+
+    bottom: 300px;
+    right: 150px;
+
+    position: absolute;
+    overflow: hidden;
+
+}
+
+#adult-outer {
+    height: 600px;
+    width: 100%;
+
+    
+}
