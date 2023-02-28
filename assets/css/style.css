@@ -10,6 +10,7 @@ body {
     font-family: Lato, sans-serif;
     font-weight: 600;
     color: #FCEDDA;
+    background-color: #EE4E34;
 
 }
 
@@ -24,7 +25,38 @@ h1, h2 {
 
 #logo {
     float: left;
-    font-size: 300%;
+    font-size: 310%;
 
 
+}
+
+/* Navigation links */
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 4px;
+
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #FCEDDA;
+}
+
+.active {
+    border-bottom: 1px solid #FCEDDA;
 }
