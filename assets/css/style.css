@@ -103,3 +103,33 @@ h1, h2 {
 
     
 }
+
+/* About gym */
+
+#about-gym {
+    height: 600px;
+    padding-top: 200px
+
+}
+
+#left-about {
+    padding-top: 50px;
+    width: 13%;
+    float: left;
+    background-color: blue;
+
+}
+
+#right-about {
+    padding-top: 50px;
+    width: 13%;
+    float: right;
+    background-color: red;
+
+}
+
+#center-about {
+    width: 13%;
+    margin: 0 auto;
+    background-color: green;
+}
