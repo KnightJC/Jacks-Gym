@@ -110,28 +110,30 @@ h1, h2 {
     height: 600px;
     padding-top: 200px;
     margin-left: 30px;
+    text-align: center;
 
 }
 
+#gym h1 {
+    font-size: 50px;
+    padding-top: 20px;
+}
+
 #left-about {
-    padding-top: 50px;
-    width: 33%;
+    padding-top: 10%;
+    width: 25%;
     float: left;
 
 }
 
 #right-about {
-    padding-top: 50px;
-    width: 33%;
+    padding-top: 10%;
+    width: 25%;
     float: right;
 
 }
 
-#center-about {
-    width: 33%;
-    margin: 0 auto;
-    background-color: yellow;
-}
+
 
 hr {
     border-top: 1px solid #FCEDDA;
@@ -169,23 +171,6 @@ hr {
 
 
 
-.right-about-heading h2 {
-    text-align: right;
-}
-
-.right-about-heading p {
-    text-align: right;
-}
-
-.center-about-heading {
-    width: 60%;
-    line-height: 20px;
-    margin-bottom: 50px;
-    margin-left: 10px;
-    float: 0 auto;
-    
-}
-
 /* About us section */
 
 #About-us {
@@ -219,78 +204,3 @@ footer {
 }
 
 /* media screens */
-
-@media screen and (max-width: 1200px) {
-    #adult-gym {
-        width: 65%;
-        height: 1200px;
-        margin: 0 auto;
-    }
-
-    #welcome{
-        padding: 30px;
-        margin: 0;
-    }
-
-    #left-about, #right-about {
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
-
-    #center-about {
-        clear: both;
-        width: 100%;
-        float: left;
-        padding: 0;
-        
-    }
-
-    #about-us > div {
-        width: 100%;
-        clear: both;
-        height: 150px;
-        padding: 0;
-    }
-
-    hr {
-        display: none;
-    }
-}
-
-/* smaller media screens */
-
-@media screen and (max-width: 950px) {
-
-    #menu {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
-
-    #cover-text {
-        left: 0;
-    }
-
-    #about-gym {
-        width: 90%;
-        height: 1200px;
-        margin: 0 auto;
-    }
-
-    .left-about-heading, .right-about-heading {
-        width: inherit;
-    }
-
-    .left-about-heading h2, .right-about-heading h2 {
-        width: 100%;
-        text-align: center;
-    }
-
-    .left-about-heading p, .right-about-heading p {
-        text-align: center;
-        padding: 0 20px;
-    }
-}
