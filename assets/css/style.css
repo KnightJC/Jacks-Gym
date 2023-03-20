@@ -26,6 +26,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 410%;
+    margin-left: 30px;
 
 
 }
@@ -65,7 +66,7 @@ h1, h2 {
 
 #adult-gym {
     height: 800px;
-    width: 100%;
+    width: 60%;
     background: url('../images/adult-gym.jpg') no-repeat center center;
 
 }
@@ -84,16 +85,15 @@ h1, h2 {
     width: 300px;
     height: 200px;
 
-    padding-top: 20px;
+    padding-top: 40px;
     padding-left: 10px;
 
-    background-color: rgba(238, 72, 58, .5);
+    background-color: rgba(0, 0, 0, 0.5);
 
     bottom: 300px;
     right: 150px;
 
     position: absolute;
-    overflow: hidden;
 
 }
 
@@ -106,29 +106,33 @@ h1, h2 {
 
 /* About gym */
 
-#about-gym {
+#gym {
     height: 600px;
-    padding-top: 200px
+    padding-top: 200px;
+    margin-left: 30px;
 
 }
 
 #left-about {
     padding-top: 50px;
-    width: 13%;
+    width: 33%;
     float: left;
+    background-color: blue;
 
 }
 
 #right-about {
     padding-top: 50px;
-    width: 13%;
+    width: 33%;
     float: right;
+    background-color: green;
 
 }
 
 #center-about {
-    width: 13%;
+    width: 33%;
     margin: 0 auto;
+    background-color: yellow;
 }
 
 hr {
@@ -188,7 +192,7 @@ hr {
 
 #About-us {
     width: 95%;
-    height: 300px;
+    height: 200px;
     float: left;
     text-align: center;
 
@@ -240,6 +244,14 @@ footer {
         clear: both;
         width: 100%;
         float: left;
+        padding: 0;
+        
+    }
+
+    #about-us > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
         padding: 0;
     }
 
