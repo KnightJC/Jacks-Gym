@@ -118,19 +118,19 @@ h1, h2 {
 
 #left-about {
     padding-top: 100px;
-    width: 33%;
+    width: 25%;
     float: left;
 }
 
 #right-about {
     padding-top: 100px;
-    width: 33%;
+    width: 25%;
     float: right;
 }
 
 #center-about {
     padding-top: 100px;
-    width: 33%;
+    width: 25%;
     margin: 0 auto;
 }
 
