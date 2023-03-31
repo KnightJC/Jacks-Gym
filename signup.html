@@ -31,16 +31,53 @@
             </ul>
         </nav>
     </header>
+    <section id="signup-section">
+        <div id="signup">
+            <form class="signup">
+                <div id="signup-heading">
 
-    <section id="photos">
-        <img src="assets/images/boxer-g296895a09_1920.jpg" alt="Boxer boxing on a pad">
-        <img src="assets/images/circuits-g2babef378_1920.jpg" alt="Two people doing core training">
-        <img src="assets/images/kettlebell-g7ec836601_1920.jpg" alt="Two people practising some stretching">
-        <img src="assets/images/trx-gcfeaec158_1920.jpg" alt="Two people working upper body on TRX">
-        <img src="assets/images/yoga-g5e924c96d_1920.jpg" alt="Groups of people doing yoga">
-        <img src="assets/images/man-g77db96c6d_1920.jpg" alt="Man lifting dumbbell">
+        <form method="post" action="action_page.php">
+        <h2>Let's get you signed up!</h2>
+        <br>
+            <div>
+                <label for="fname">First Name</label>
+                <input class="input-form"  id="fname" type="text" name="fname" required>
+    </div>
+    <br>
+            <div>
+                <label for="lname">Last Name</label>
+                <input class="input-form"  id="lname" type="text" name="lname" required>
+    </div>
+    <br>
+            <div>
+                <label for="email">Email</label>
+                <input class="input-form"  name="email" id="email" required>
+    </div>
+    <br>
+            <div>
+                <label for="number">Number</label>
+                <input class="input-form" name="number" id="number" required>
+    </div>
+    <br>
+            <div>
+                <label for="bdate">Date Of Birth</label>
+                <input class="input-form" name="bdate" id="bdate" type="bdate" required>
+            </div>
+        
+        <label for="gym">Gym</label>
+        <input for="gym" id="gym" type="radio" name="gym_preference" value="gym" required>
+        
+        <label for="classes">Classes</label>
+        <input for="classes" id="classes" type="radio" name="gym_preference" value="classes" required>
+        
+        <label for="both">Both</label>
+        <input for="both" id="both" type="radio" name="gym_preference" value="both" required>
+            <div>
+        <input id="submit-button" type="submit" value="Submit">
+            </div>
+    </form>
+        
     </section>
-
     <footer>
         <div id="contact-us">
             <h1>Contact Us!</h1>
