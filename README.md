@@ -1,20 +1,20 @@
 # Jack's Gym
 
-Jack's Gym will be a site that hopes to help and keep people healthy, motivated and meet fellow gym goers. The location of this gym will be in Brighton and Hove. Jack's Gym will be useful for those looking to improve fitness, when times are and where the gym is.
+Jack's Gym will be a site that hopes to help and keep people healthy, motivated and meet fellow gym goers. The location of this gym will be in Brighton and Hove. Jack's Gym will be useful for those looking to improve fitness, times for classes as well as reasons as to why you should join.
 
-## Features
+# Features
 
 
 
-### Existing Features
+
 
 -__Navigation Bar__
 
 -__The landing page image__
 
--__About Us__
 
--__Offers__
+
+
 
 -__The Footer__
 

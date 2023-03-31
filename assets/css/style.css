@@ -10,14 +10,14 @@ body {
     font-family: Lato, sans-serif;
     font-weight: 600;
     color: #FCEDDA;
-    background-color: #EE4E34;
+    background-color: #514F4E;
 
 }
 
 /* header and logo */
 
 h1, h2 {
-    font-family: Nunito+Sans, sans-serif;
+    font-family: Nunito-Sans, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #FCEDDA;
@@ -78,7 +78,7 @@ h1, h2 {
 
 #cover-text {
     font-size: 130%;
-    font-family: Nunito+Sans, sans-serif;
+    font-family: Nunito-Sans, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
 
@@ -182,7 +182,6 @@ hr {
 
 #time-table div {
     color: #fafafa;
-    background-color: rgba (0, 0, 0, .9);
     width: 20%;
     height: 300px;
     float: left;
@@ -192,27 +191,6 @@ hr {
     box-sizing: border-box;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-/* About us section */
-
-#About-us {
-    width: 95%;
-    height: 200px;
-    float: left;
-    text-align: center;
-
-}
 
 /* footer icons */
 
@@ -401,7 +379,7 @@ footer {
 }
 
 #submit-button:hover {
-    background-color: #FCEDDA;
+    background-color: #fff;
     color: #FCEDDA;
     text-transform: uppercase;
     display: block;
@@ -427,7 +405,7 @@ footer {
 
 #contact-us {
     font-size: 120%;
-    font-family: Nunito+Sans, sans-serif;
+    font-family: Nunito-Sans, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     text-align: center;
