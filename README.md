@@ -4,11 +4,8 @@ Jack's Gym is a website which allows for people of all gender, fitness and cultu
 
 People of this website will be able to find why its important to join a gym. All types of classes throughout the week, as well as pictures of those part taking. It will include a contact us section for any questions as well as a sign up form. The target is towards those looking to get back into fitness or continue their journey into fitness. 
 
-![Header] (https://github.com/KnightJC/Jacks-Gym/blob/main/media/The%20Header.png)
 
 # Features
-
-
 
 
 
@@ -19,7 +16,8 @@ __Navigation Bar__
 - The font is made in the set colour to appear bold and obvious to the user. Alongside a darker background. 
 - The navigation shows to the user the name of the gym and website and makes navigating around the page easy and simple.
 
-![Navigaton] (
+![Navigaton] (https://github.com/KnightJC/Jacks-Gym/blob/main/media/navigation-%20header.png)
+
 
 
 __The Header__
@@ -28,13 +26,23 @@ __The Header__
 -The header also displays a clear statement for on the right hand side for people to join the gym as well as wanting YOU to get fit, strong and healthy.
 -The layout of this section is clear to the user that its aimed to those looking to join the gym as well as get healthier and fitter during their course. 
 
+![Header] (https://github.com/KnightJC/Jacks-Gym/blob/main/media/navigation-%20header.png)
 
 
 
+__Why Join The Gym__
 
--__The Footer__
+-The main structure of the section gives you details about why is important to exercise and all the benefits it can do for you. This will also show you a time table of all the class that take part throughout the week.
+-The sections shows how much of an impact it can help with your mental health, confidence and weight management. It also shows the variety of classes that take place for people and what they enjoy. 
 
--__Gallery__
+![Main section] (
+
+
+__Gallery__
+
+-The gallery section will show you all the people training in the club alongside all the class that are involved. Showing you the facility around you as well as the hard work and dedication people have.
+
+
 
 -__The Sign Up Page__
 
