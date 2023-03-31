@@ -283,6 +283,7 @@ footer {
 
     #cover-text {
         left: 0;
+        position: relative;
     }
 
     #main-gym {
