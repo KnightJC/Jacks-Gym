@@ -44,7 +44,8 @@ __Why Join The Gym__
 - The main structure of the section gives you details about why is important to exercise and all the benefits it can do for you. This will also show you a time table of all the class that take part throughout the week.
 - The sections shows how much of an impact it can help with your mental health, confidence and weight management. It also shows the variety of classes that take place for people and what they enjoy. 
 
-![Main section] (https://github.com/KnightJC/Jacks-Gym/blob/main/media/main%20section.png)
+![main section](https://github.com/KnightJC/Jacks-Gym/assets/123365090/396a1329-1e3f-4ccb-91a9-021912b87c7d)
+
 
 
 
