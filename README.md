@@ -122,7 +122,7 @@ For the use in the header, I have increased the letter spacing further to make i
 ## Validator Testing
 
 ### HTML 
-  - A warning came back on both gallery.html and index.html. An error came back for signup.html when passed through W3C HTML Validator. I am happy with the outcome of the test as all work can be submitted as normal
+  - A warning came back on both gallery.html and index.html. An error came back for signup.html when passed through W3C HTML Validator. I am happy with the outcome of the test as all worked and can be submitted as normal
 
 ### CSS
   - No errors came back when passed through W3C CSS Validator (Jigsaw)
