@@ -32,7 +32,8 @@ __The Header__
 - The header also displays a clear statement for on the right hand side for people to join the gym as well as wanting YOU to get fit, strong and healthy.
 - The layout of this section is clear to the user that its aimed to those looking to join the gym as well as get healthier and fitter during their course. 
 
-![Header] (https://github.com/KnightJC/Jacks-Gym/blob/main/media/navigation-%20header.png)
+![The Header](https://github.com/KnightJC/Jacks-Gym/assets/123365090/dbcffd59-0cc8-4e0b-9d8e-6cb4bbd36fc6)
+
 
 
 
