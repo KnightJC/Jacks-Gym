@@ -8,7 +8,7 @@ Welcome to Jack's Gym! We are thrilled to have you as a part of our fitness comm
 
 # About
 
-Jack's Gym is a state-of-the-art fitness center dedicated to helping individuals achieve their health and fitness goals. Our mission is to provide a supportive and motivating environment where members can improve their physical well-being, boost confidence, and lead healthier lifestyles.
+Jack's Gym is a state-of-the-art fitness center dedicated to helping individuals achieve their health and fitness goals. Our mission is to provide a supportive and motivating environment where members can improve their physical well-being, boost confidence, and lead healthier lifestyles. I 
 
 
 # Features
@@ -102,7 +102,7 @@ __Features Left to Implement__
 - Social media takes you to the correct links
 - Hover over links are clear and not default blue
 - The project looks vibrant, functions, and looks good to the eye. All screen sizes work using within inspect elements whilst changing device size.
-- The navigation, header, timetable, photos, contact us, sign up form are all readable and easy to understand as well as navigate.
+- The navigation, header, timetable, photos, contact us, and sign-up form are all readable and easy to understand as well as navigate.
 - The sign-up form works and requires fields to be entered such as first and last name, email, and phone number. date of birth as well as what you're interested in.
 
 
@@ -140,7 +140,7 @@ __Accessibility__
 
 ## Deployment
 
-__Adding, Committing and Pushing Files__
+__Adding, Committing, and Pushing Files__
 
 - In the command line in the terminal type -git add .
 - git commit -m "Testing commit
@@ -156,19 +156,40 @@ __Deployment__
 
 __Forking__
 
-- 
- The live link to the site can be found here - https://knightjc.github.io/Jacks-Gym/
+- Forking the GitHub Repository
+
+  - By forking the GitHub Repository, you can make a copy of the original repository in your own GitHub account. This means we can view or make changes without making the changes affecting the original.
+  - Log into GitHub and locate the GitHub Repository.
+  - At the top of the Repository there is a "Fork" button about the "Settings" button on the menu.
+  - You should now have a new copy of the original repository in your own GitHub account.
+ 
+
+__Cloning__
+
+- Making a Local Clone
+
+  - Log into your GitHub then find the GitPod repository
+  - Under the repository name there is a button that says "Clone or download". Click on this button.
+  - If cloning with HTTPS "Clone with HTTPS", copy this link.
+  - Open GitBash
+  - Change the current working directory to the location where you want the cloned directory to be.
+  - Type git clone, and then paste the URL you copied earlier.
+
+
+Cloning or Forking has not been done for this site but these are the steps to follow when doing them.
+
+The live link to the site can be found here - https://knightjc.github.io/Jacks-Gym/
 
 ## Credits
 
 #### Content
 
-- Font was taken from fontawesome and google fonts.
-- Social media icons was taken from fontawesome too
+- Font was taken from Fontawesome and google fonts.
+- Social media icons were taken from font awesome too
 
 #### Media
 
-- The image in the header, time table, gallery where taken from Pexabay
+- The image in the header, timetable, and gallery where taken from Pexabay
 
 
 
