@@ -19,7 +19,8 @@ __Navigation Bar__
 - The font is made in the set colour to appear bold and obvious to the user. Alongside a darker background. 
 - The navigation shows to the user the name of the gym and website and makes navigating around the page easy and simple.
 
-![Navigaton] (https://github.com/KnightJC/Jacks-Gym/blob/main/media/navigation-%20header.png)
+![navigation- header](https://github.com/KnightJC/Jacks-Gym/assets/123365090/dea8609f-d3f8-4dd1-9347-bda377bb7ad4)
+
 
 
 
