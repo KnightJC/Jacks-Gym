@@ -28,7 +28,7 @@ For the use in the header, I have increased the letter spacing further to make i
 
 
 
-__Navigation Bar__
+## Navigation Bar
 
 - Features that are displayed at the top of the page on all three pages. The full responsive navigation bar includes links to the Home page, Gallery, and Sign Up page. This is easy to navigate as its identical on all pages.
 - The section will allow users to navigate easily from page to page across all devices without having to hit the 'back' button to revert to the previous page.
@@ -38,7 +38,7 @@ __Navigation Bar__
 
 
 
-__The Landing Page Image__
+## The Landing Page Image
 
 - The landing page includes a photograph with text overlayed to the right. This allows users to see exactly who it's aimed towards
 - The section introduces the user to Jack's Gym with a darker background but vibrant text/ overlays to catch the attention of people visiting
@@ -50,7 +50,7 @@ __The Landing Page Image__
 
 
 
-__Why Join The Gym Section__
+## Why Join The Gym Section
 
 - The main structure of the section gives you details about why is important to exercise and all the benefits it can do for you. 
 - The section shows how much of an impact it can help on your mental health, confidence, and weight management.
@@ -61,7 +61,7 @@ __Why Join The Gym Section__
 
 
 
-__Time Table Section__
+## Time Table Section
 
 - You can see the timetable that all classes take place (Monday - Sunday) alongside times, days, classes, and what's involved. This is a good indication for people with a busy lifestyle therefore able to pick and choose what classes they'd like to do. 
 - This will also show the different types of classes involved which can vary from different fitnesses. 
