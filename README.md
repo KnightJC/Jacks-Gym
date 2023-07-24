@@ -1,8 +1,6 @@
-# Jack's Gym
+# Introduction
 
-Jack's Gym is a website which allows for people of all gender, fitness and culture to get fit and healthy from all ages. The Gym offers classes as well! 
-
-People of this website will be able to find why its important to join a gym. All types of classes throughout the week, as well as pictures of those part taking. It will include a contact us section for any questions as well as a sign up form. The target is towards those looking to get back into fitness or continue their journey into fitness. 
+Welcome to Jack's Gym! We are thrilled to have you as a part of our fitness community. This is a guide to help you understand what Jack's Gym is all about and how you can make the most of your gym experience.
 
 ![screenshot](https://github.com/KnightJC/Jacks-Gym/assets/123365090/5b112d28-d2b1-4cbf-b231-fa89a3e34e42)
 
