@@ -114,6 +114,9 @@ __Features Left to Implement__
 
 - CSS
   - No errors came back when passed through W3C CSS Validator (Jigsaw)
+  
+  ![CSS validation](https://github.com/KnightJC/Jacks-Gym/assets/123365090/515b17fa-a82d-4691-95db-10c1438ce25c)
+
  
  
 - Accessibility
