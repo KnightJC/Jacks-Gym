@@ -17,6 +17,12 @@ I have used a dark colour background to match the images. The overlays and text 
 
 These colours feature throughout all the pages to keep consistency.
 
+__Font__
+
+I used https://fonts.google.com/ for my fonts. I have chosen to use Nunito Sans as my main font throughout the website. This is a fairly modern style that is easy to read in various sizes. This is also soft on the eye as there are no sharp edges to the corners of the font. 
+
+For the use in the header, I have increased the letter spacing further to make it more defined and stand out. I have also used a variety of font weights to make some sections easier and stand out.
+
 
 # Features
 
@@ -191,7 +197,7 @@ The live link to the site can be found here - https://knightjc.github.io/Jacks-G
 
 #### Content
 
-- Font was taken from Fontawesome and google fonts.
+- Font was taken from google fonts.
 - Social media icons were taken from font awesome too
 
 
