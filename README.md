@@ -101,7 +101,6 @@ __Features Left to Implement__
 - Logo takes the user back to the main page
 - Social media takes you to the correct links
 - Hover over links are clear and not default blue
-- I tested this page and works on different browsers such as Firefox and Chrome.
 - The project looks vibrant, functions, and looks good to the eye. All screen sizes work using within inspect elements whilst changing device size.
 - The navigation, header, timetable, photos, contact us, sign up form are all readable and easy to understand as well as navigate.
 - The sign-up form works and requires fields to be entered such as first and last name, email, and phone number. date of birth as well as what you're interested in.
@@ -110,7 +109,7 @@ __Features Left to Implement__
 ## Validator Testing
 
 - HTML 
-  - A warning came back on both gallery.html and index.html. An error came back for signup.html when passed through W3C HTML Validator. I am happy with the outcome of the test as all work and can be submitted as normal
+  - A warning came back on both gallery.html and index.html. An error came back for signup.html when passed through W3C HTML Validator. I am happy with the outcome of the test as all work can be submitted as normal
 
 - CSS
   - No errors came back when passed through W3C CSS Validator (Jigsaw)
@@ -122,22 +121,43 @@ __Features Left to Implement__
   - I sent this to my partner and a few friends to test it out. I had them check to ensure all links worked and the website was responsive on different screen resolutions. As stated prior, I also checked this in inspect element using the dimensions tool to change between different screen sizes.
   - I wanted to carry out further testing on my website and used [Wave](https://wave.webaim.org/) This was to check to make sure the website worked well with screen readers.
 
+__Brower Compatibility__
+
+- I tested my site on Chrome, Firefox, Internet Explorer, Opera, Microsoft Edge, and Safari. These were all up-to-date versions and found no issues loading the sight, layout, colour, links, images, and signup forms.
+
+__OS Compatibility__
+
+- I test this on my iPhone 13 Pro Max and had a friend test it on Andriod 10. I asked the friend to test to see if it was working.
+- I also test for responsiveness using Chrome DevTools.
  
  
 __Accessibility__
-  - The colors and fonts chosen are easy and readable when running it through lighthouse devtools
+  - The colors and fonts chosen are easy and readable when running it through lighthouse DevTools
   
- ![Accessibility] (https://github.com/KnightJC/Jacks-Gym/blob/main/media/accessibility%20score.png)
+ ![accessibility score](https://github.com/KnightJC/Jacks-Gym/assets/123365090/a8730bf8-d416-41c4-84f7-befb31b1cdd7)
+
 
 
 ## Deployment
 
-- The site was deplayed to Github pages. These steps where followed:
-  - In the Github repository > Navigation > Settings tab
-  - From left side of the page hit Pages > Branch > Main > Save
-  - Once Main branch has been selected > page link will be provided for completed website at the top of the page
-  
- Live link to site can be found here - https://knightjc.github.io/Jacks-Gym/
+__Adding, Committing and Pushing Files__
+
+- In the command line in the terminal type -git add .
+- git commit -m "Testing commit
+- git push
+
+__Deployment__
+
+  - Logged into GitHub
+  - Clicked the "Settings" button in the menu above Repository
+  - In the GitHub repository > Navigation > Settings tab
+  - From the left side of the page hit Pages > Branch > Main > Save
+  - Once the Main branch has been selected > a page link will be provided for the completed website at the top of the page
+
+__Forking__
+
+- 
+ The live link to the site can be found here - https://knightjc.github.io/Jacks-Gym/
 
 ## Credits
 
