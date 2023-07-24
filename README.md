@@ -6,6 +6,9 @@ Welcome to Jack's Gym! We are thrilled to have you as a part of our fitness comm
 
 
 
+#About
+
+Jack's Gym is a state-of-the-art fitness center dedicated to helping individuals achieve their health and fitness goals. Our mission is to provide a supportive and motivating environment where members can improve their physical well-being, boost their confidence, and lead a healthier lifestyle.
 
 
 # Features
