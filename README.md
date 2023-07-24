@@ -83,7 +83,8 @@ __Contact Us Section__
 
 ![contact us section](https://github.com/KnightJC/Jacks-Gym/assets/123365090/cab980e5-a301-49cb-859c-9c4a87cd1cd4)
 
-![social media] (https://github.com/KnightJC/Jacks-Gym/blob/main/media/social%20media%20section.png)
+![social media section](https://github.com/KnightJC/Jacks-Gym/assets/123365090/144da6bf-c129-4562-9454-e94f75a0fa17)
+
 
 
 
