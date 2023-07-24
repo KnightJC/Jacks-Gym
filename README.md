@@ -8,7 +8,7 @@ Welcome to Jack's Gym! We are thrilled to have you as a part of our fitness comm
 
 # About
 
-Jack's Gym is a state-of-the-art fitness center dedicated to helping individuals achieve their health and fitness goals. Our mission is to provide a supportive and motivating environment where members can improve their physical well-being, boost their confidence, and lead a healthier lifestyle.
+Jack's Gym is a state-of-the-art fitness center dedicated to helping individuals achieve their health and fitness goals. Our mission is to provide a supportive and motivating environment where members can improve their physical well-being, boost confidence, and lead healthier lifestyles.
 
 
 # Features
@@ -17,23 +17,18 @@ Jack's Gym is a state-of-the-art fitness center dedicated to helping individuals
 
 __Navigation Bar__
 
-- Features that are displayed in the top of the page, navigation showing the gym's name in the top left (JACK's GYM) that sits in the top left of all pages.
-- The other navigation in the top right include: Home, Gallery and Sign Up which link to different sections on the website.
-- The font is made in the set colour to appear bold and obvious to the user. Alongside a darker background. 
-- The navigation shows to the user the name of the gym and website and makes navigating around the page easy and simple.
+- Features that are displayed at the top of the page on all three pages. The full responsive navigation bar includes links to the Home page, Gallery, and Sign Up page. This is easy to navigate as its identical on all pages.
+- The section will allow users to navigate easily from page to page across all devices without having to hit the 'back' button to revert to the previous page.
 
 ![navigation- header](https://github.com/KnightJC/Jacks-Gym/assets/123365090/dea8609f-d3f8-4dd1-9347-bda377bb7ad4)
 
 
 
 
+__The Landing Page__
 
-
-__The Header__
-
-- The header shows the name of the club in the top left as well as a background image of a person using the machine. The colours used (Grey and Nude/Cream) through the pages. This is a continuation on font through the site.
-- The header also displays a clear statement for on the right hand side for people to join the gym as well as wanting YOU to get fit, strong and healthy.
-- The layout of this section is clear to the user that its aimed to those looking to join the gym as well as get healthier and fitter during their course. 
+- The landing page includes a photograph with text overlayed to the right. This allows users to see exactly who it's aimed towards
+- The section introduces the user to Jack's Gym with a darker background but vibrant text/ overlays to catch the attention of people visiting
 
 ![The Header](https://github.com/KnightJC/Jacks-Gym/assets/123365090/dbcffd59-0cc8-4e0b-9d8e-6cb4bbd36fc6)
 
@@ -44,12 +39,21 @@ __The Header__
 
 __Why Join The Gym__
 
-- The main structure of the section gives you details about why is important to exercise and all the benefits it can do for you. This will also show you a time table of all the class that take part throughout the week.
-- The sections shows how much of an impact it can help with your mental health, confidence and weight management. It also shows the variety of classes that take place for people and what they enjoy. 
+- The main structure of the section gives you details about why is important to exercise and all the benefits it can do for you. 
+- The section shows how much of an impact it can help on your mental health, confidence, and weight management.
+- Each user will see the value of signing up for the Gym. This should encourage users to get to the gym to help not just for physical health, but mental too.
 
 ![main section](https://github.com/KnightJC/Jacks-Gym/assets/123365090/396a1329-1e3f-4ccb-91a9-021912b87c7d)
 
 
+
+
+__Time Table__
+
+- You can see the time table that all classes take place alongside times, days, what class and what's involved. This is a good indication for people with a busy life-style therefore able to pick and choose what classes they'd like to do. 
+- This will also show the different types of classes involved which can very from different fitnesses. 
+
+![Time table section](https://github.com/KnightJC/Jacks-Gym/assets/123365090/8648e2df-b97d-45e1-888a-0729e022c1da)
 
 
 
@@ -64,14 +68,6 @@ __Gallery__
 
 
 
-
-
-__Time Table__
-
-- You can see the time table that all classes take place alongside times, days, what class and what's involved. This is a good indication for people with a busy life-style therefore able to pick and choose what classes they'd like to do. 
-- This will also show the different types of classes involved which can very from different fitnesses. 
-
-![Time table section](https://github.com/KnightJC/Jacks-Gym/assets/123365090/8648e2df-b97d-45e1-888a-0729e022c1da)
 
 
 
