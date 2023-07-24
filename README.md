@@ -68,7 +68,8 @@ __Time Table__
 - You can see the time table that all classes take place alongside times, days, what class and what's involved. This is a good indication for people with a busy life-style therefore able to pick and choose what classes they'd like to do. 
 - This will also show the different types of classes involved which can very from different fitnesses. 
 
-![Classes Time Table] (https://github.com/KnightJC/Jacks-Gym/blob/main/media/Time%20table%20section.png)
+![Time table section](https://github.com/KnightJC/Jacks-Gym/assets/123365090/8648e2df-b97d-45e1-888a-0729e022c1da)
+
 
 
 
