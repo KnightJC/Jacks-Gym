@@ -8,7 +8,14 @@ Welcome to Jack's Gym! We are thrilled to have you as a part of our fitness comm
 
 # About
 
-Jack's Gym is a state-of-the-art fitness center dedicated to helping individuals achieve their health and fitness goals. Our mission is to provide a supportive and motivating environment where members can improve their physical well-being, boost confidence, and lead healthier lifestyles. I 
+Jack's Gym is a state-of-the-art fitness center dedicated to helping individuals achieve their health and fitness goals. Our mission is to provide a supportive and motivating environment where members can improve their physical well-being, boost confidence, and lead healthier lifestyles. 
+
+# Designs
+__Surface__
+
+I have used a dark colour background to match the images. The overlays and text were more vibrant to make it stand out. This was a nice contrasting pair that made the overlay on the head bold. This also made the timetable, health benefits stand out much more too. This will help with Accessibility for visually impaired users.
+
+These colours feature throughout all the pages to keep consistency.
 
 
 # Features
@@ -118,8 +125,8 @@ __Features Left to Implement__
 
   __Usability Testing__
 
-  - I sent this to my partner and a few friends to test it out. I had them check to ensure all links worked and the website was responsive on different screen resolutions. As stated prior, I also checked this in inspect element using the dimensions tool to change between different screen sizes.
-  - I wanted to carry out further testing on my website and used [Wave](https://wave.webaim.org/) This was to check to make sure the website worked well with screen readers.
+- I sent this to my partner and a few friends to test it out. I had them check to ensure all links worked and the website was responsive on different screen resolutions. As stated prior, I also checked this in inspect element using the dimensions tool to change between different screen sizes.
+- I wanted to carry out further testing on my website and used [Wave](https://wave.webaim.org/) This was to check to make sure the website worked well with screen readers.
 
 __Brower Compatibility__
 
@@ -132,7 +139,7 @@ __OS Compatibility__
  
  
 __Accessibility__
-  - The colors and fonts chosen are easy and readable when running it through lighthouse DevTools
+- The colors and fonts chosen are easy and readable when running it through lighthouse DevTools
   
  ![accessibility score](https://github.com/KnightJC/Jacks-Gym/assets/123365090/a8730bf8-d416-41c4-84f7-befb31b1cdd7)
 
@@ -148,11 +155,11 @@ __Adding, Committing, and Pushing Files__
 
 __Deployment__
 
-  - Logged into GitHub
-  - Clicked the "Settings" button in the menu above Repository
-  - In the GitHub repository > Navigation > Settings tab
-  - From the left side of the page hit Pages > Branch > Main > Save
-  - Once the Main branch has been selected > a page link will be provided for the completed website at the top of the page
+- Logged into GitHub
+- Clicked the "Settings" button in the menu above Repository
+- In the GitHub repository > Navigation > Settings tab
+- From the left side of the page hit Pages > Branch > Main > Save
+- Once the Main branch has been selected > a page link will be provided for the completed website at the top of the page
 
 __Forking__
 
@@ -187,9 +194,10 @@ The live link to the site can be found here - https://knightjc.github.io/Jacks-G
 - Font was taken from Fontawesome and google fonts.
 - Social media icons were taken from font awesome too
 
+
 #### Media
 
-- The image in the header, timetable, and gallery where taken from Pexabay
+- The image in the header, timetable, and gallery were taken from Pexabay
 
 
 
