@@ -79,7 +79,7 @@ __Gallery__
 
 
 
-__The Sign-Up Page
+__The Sign-Up Page__
 
 - This page will allow users to get signed up to Jack's Gym. They can start their fitness journey with the community. The user will be able to specify if they would like to use the gym only, classes only, or better yet, both. The user will be asked to submit their first name, last name, email address, telephone number, and date of birth. Knowing their date of birth will allow the gym to have classes suited to their needs.
 
