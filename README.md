@@ -84,8 +84,15 @@ __The Sign-Up Page
 - This page will allow users to get signed up to Jack's Gym. They can start their fitness journey with the community. The user will be able to specify if they would like to use the gym only, classes only, or better yet, both. The user will be asked to submit their first name, last name, email address, telephone number, and date of birth. Knowing their date of birth will allow the gym to have classes suited to their needs.
 
 
+![sign up section](https://github.com/KnightJC/Jacks-Gym/assets/123365090/64ab8a69-fe8a-4e56-b52e-38d4ebdc6f42)
 
 
+__Features Left to Implement__
+
+- Fitness Assessments: Assess your current fitness level and track your progress with regular fitness assessments. Our trainers will work with you to set achievable goals and monitor your improvements
+- Nutritional Counselling: Achieving your fitness goals goes hand-in-hand with proper nutrition. Our nutrition experts are available to provide guidance and personalized meal plans to help you optimize your diet
+- Online Workouts: Can't make it to the gym? No problem! Access a library of online workouts and exercise routines through our website or mobile app, so you can stay active anytime, anywhere
+- Fitness Challenges and Rewards: Participate in our exciting fitness challenges and earn rewards for achieving milestones. It's a fun and motivating way to stay engaged and push your limits.
 
 
 ## Testing
