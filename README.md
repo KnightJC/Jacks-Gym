@@ -28,7 +28,7 @@ For the use in the header, I have increased the letter spacing further to make i
 
 
 
-## Navigation Bar
+### Navigation Bar
 
 - Features that are displayed at the top of the page on all three pages. The full responsive navigation bar includes links to the Home page, Gallery, and Sign Up page. This is easy to navigate as its identical on all pages.
 - The section will allow users to navigate easily from page to page across all devices without having to hit the 'back' button to revert to the previous page.
@@ -38,7 +38,7 @@ For the use in the header, I have increased the letter spacing further to make i
 
 
 
-## The Landing Page Image
+### The Landing Page Image
 
 - The landing page includes a photograph with text overlayed to the right. This allows users to see exactly who it's aimed towards
 - The section introduces the user to Jack's Gym with a darker background but vibrant text/ overlays to catch the attention of people visiting
@@ -50,7 +50,7 @@ For the use in the header, I have increased the letter spacing further to make i
 
 
 
-## Why Join The Gym Section
+### Why Join The Gym Section
 
 - The main structure of the section gives you details about why is important to exercise and all the benefits it can do for you. 
 - The section shows how much of an impact it can help on your mental health, confidence, and weight management.
@@ -61,7 +61,7 @@ For the use in the header, I have increased the letter spacing further to make i
 
 
 
-## Time Table Section
+### Time Table Section
 
 - You can see the timetable that all classes take place (Monday - Sunday) alongside times, days, classes, and what's involved. This is a good indication for people with a busy lifestyle therefore able to pick and choose what classes they'd like to do. 
 - This will also show the different types of classes involved which can vary from different fitnesses. 
@@ -69,7 +69,7 @@ For the use in the header, I have increased the letter spacing further to make i
 ![Time table section](https://github.com/KnightJC/Jacks-Gym/assets/123365090/8648e2df-b97d-45e1-888a-0729e022c1da)
 
 
-__The Footer__
+### The Footer
 
 - The footer will include sections such as contact us. This section allows users to get in contact and provides the phone number, email address, and location of the gym.
 - The footer section will also include social media icons which you can find the gym through Facebook, Twitter, Instagram, and Youtube.
@@ -83,7 +83,7 @@ __The Footer__
 
 
 
-__Gallery__
+### Gallery
 
 - The gallery will provide the user with supporting images to see what the gym is looking like
 - The section is important to the user as it will easily identify the types of classes that take place on a weekly bases which get put together
@@ -92,7 +92,7 @@ __Gallery__
 
 
 
-__The Sign-Up Page__
+### The Sign-Up Page
 
 - This page will allow users to get signed up to Jack's Gym. They can start their fitness journey with the community. The user will be able to specify if they would like to use the gym only, classes only, or better yet, both. The user will be asked to submit their first name, last name, email address, telephone number, and date of birth. Knowing their date of birth will allow the gym to have classes suited to their needs.
 
@@ -100,7 +100,7 @@ __The Sign-Up Page__
 ![sign up section](https://github.com/KnightJC/Jacks-Gym/assets/123365090/64ab8a69-fe8a-4e56-b52e-38d4ebdc6f42)
 
 
-__Features Left to Implement__
+### Features Left to Implement
 
 - Fitness Assessments: Assess your current fitness level and track your progress with regular fitness assessments. Our trainers will work with you to set achievable goals and monitor your improvements
 - Nutritional Counselling: Achieving your fitness goals goes hand-in-hand with proper nutrition. Our nutrition experts are available to provide guidance and personalized meal plans to help you optimize your diet
@@ -121,15 +121,15 @@ __Features Left to Implement__
 
 ## Validator Testing
 
-- HTML 
+### HTML 
   - A warning came back on both gallery.html and index.html. An error came back for signup.html when passed through W3C HTML Validator. I am happy with the outcome of the test as all work can be submitted as normal
 
-- CSS
+### CSS
   - No errors came back when passed through W3C CSS Validator (Jigsaw)
   
   ![CSS validation](https://github.com/KnightJC/Jacks-Gym/assets/123365090/515b17fa-a82d-4691-95db-10c1438ce25c)
 
-  __Usability Testing__
+__Usability Testing__
 
 - I sent this to my partner and a few friends to test it out. I had them check to ensure all links worked and the website was responsive on different screen resolutions. As stated prior, I also checked this in inspect element using the dimensions tool to change between different screen sizes.
 - I wanted to carry out further testing on my website and used [Wave](https://wave.webaim.org/) This was to check to make sure the website worked well with screen readers.
