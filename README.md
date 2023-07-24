@@ -25,7 +25,7 @@ __Navigation Bar__
 
 
 
-__The Landing Page__
+__The Landing Page Image__
 
 - The landing page includes a photograph with text overlayed to the right. This allows users to see exactly who it's aimed towards
 - The section introduces the user to Jack's Gym with a darker background but vibrant text/ overlays to catch the attention of people visiting
@@ -37,7 +37,7 @@ __The Landing Page__
 
 
 
-__Why Join The Gym__
+__Why Join The Gym Section__
 
 - The main structure of the section gives you details about why is important to exercise and all the benefits it can do for you. 
 - The section shows how much of an impact it can help on your mental health, confidence, and weight management.
@@ -48,41 +48,40 @@ __Why Join The Gym__
 
 
 
-__Time Table__
+__Time Table Section__
 
-- You can see the time table that all classes take place alongside times, days, what class and what's involved. This is a good indication for people with a busy life-style therefore able to pick and choose what classes they'd like to do. 
-- This will also show the different types of classes involved which can very from different fitnesses. 
+- You can see the timetable that all classes take place (Monday - Sunday) alongside times, days, classes, and what's involved. This is a good indication for people with a busy lifestyle therefore able to pick and choose what classes they'd like to do. 
+- This will also show the different types of classes involved which can vary from different fitnesses. 
 
 ![Time table section](https://github.com/KnightJC/Jacks-Gym/assets/123365090/8648e2df-b97d-45e1-888a-0729e022c1da)
+
+
+__The Footer__
+
+- The footer will include sections such as contact us. This section allows users to get in contact and provides the phone number, email address, and location of the gym.
+- The footer section will also include social media icons which you can find the gym through Facebook, Twitter, Instagram, and Youtube.
+- This section is important for people in case they have any questions or are unsure where to start.
+
+![contact us section](https://github.com/KnightJC/Jacks-Gym/assets/123365090/cab980e5-a301-49cb-859c-9c4a87cd1cd4)
+
+![social media section](https://github.com/KnightJC/Jacks-Gym/assets/123365090/144da6bf-c129-4562-9454-e94f75a0fa17)
+
 
 
 
 
 __Gallery__
 
-- The gallery section will show you all the people training in the club alongside all the class that are involved. Showing you the facility around you as well as the hard work and dedication people have.
+- The gallery will provide the user with supporting images to see what the gym is looking like
+- The section is important to the user as it will easily identify the types of classes that take place on a weekly bases which get put together
 
 ![gallery section](https://github.com/KnightJC/Jacks-Gym/assets/123365090/be39c560-e813-461e-bbfa-5366d133829d)
 
 
 
+__The Sign-Up Page
 
-
-
-
-
-
-
-
-__Contact Us Section__
-
-- The contact us section allows for users to get in contact which provides phone number, email address and location of gym.
-- The contact us section will also include social media icons which you can find the gym through facebook, twitter, instagram and youtube.
-- This section is important for people incase they have any question or unsure where to start.
-
-![contact us section](https://github.com/KnightJC/Jacks-Gym/assets/123365090/cab980e5-a301-49cb-859c-9c4a87cd1cd4)
-
-![social media section](https://github.com/KnightJC/Jacks-Gym/assets/123365090/144da6bf-c129-4562-9454-e94f75a0fa17)
+- This page will allow users to get signed up to Jack's Gym. They can start their fitness journey with the community. The user will be able to specify if they would like to use the gym only, classes only, or better yet, both. The user will be asked to submit their first name, last name, email address, telephone number, and date of birth. Knowing their date of birth will allow the gym to have classes suited to their needs.
 
 
 
