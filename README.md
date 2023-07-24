@@ -97,11 +97,14 @@ __Features Left to Implement__
 
 ## Testing
 
-
-- I tested this page and works on different browsers such as firefox and chrome.
-- The project looks viberant, functions and looks good to the eye. All screens sizes work using the inspect element. 
-- The navigation, header, time table, photos, contact us, sign up form are all readable and easy to understand as well as navigate.
-- The sign up form works and requires fields to be entered such as first and last name, email, phone number. date of birth as well as what you're interested in.
+- Nav links work and the user is directed to the correct page of the site
+- Logo takes the user back to the main page
+- Social media takes you to the correct links
+- Hover over links are clear and not default blue
+- I tested this page and works on different browsers such as Firefox and Chrome.
+- The project looks vibrant, functions, and looks good to the eye. All screen sizes work using within inspect elements whilst changing device size.
+- The navigation, header, timetable, photos, contact us, sign up form are all readable and easy to understand as well as navigate.
+- The sign-up form works and requires fields to be entered such as first and last name, email, and phone number. date of birth as well as what you're interested in.
 
 
 ## Validator Testing
@@ -111,6 +114,7 @@ __Features Left to Implement__
 
 - CSS
   - No errors came back when passed through W3C CSS Validator (Jigsaw)
+ 
  
 - Accessibility
   - The colors and fonts chosen are easy and readable when running it through lighthouse devtools
