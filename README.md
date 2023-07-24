@@ -81,7 +81,8 @@ __Contact Us Section__
 - The contact us section will also include social media icons which you can find the gym through facebook, twitter, instagram and youtube.
 - This section is important for people incase they have any question or unsure where to start.
 
-![contact us] (https://github.com/KnightJC/Jacks-Gym/blob/main/media/contact%20us%20section.png)
+![contact us section](https://github.com/KnightJC/Jacks-Gym/assets/123365090/cab980e5-a301-49cb-859c-9c4a87cd1cd4)
+
 ![social media] (https://github.com/KnightJC/Jacks-Gym/blob/main/media/social%20media%20section.png)
 
 
