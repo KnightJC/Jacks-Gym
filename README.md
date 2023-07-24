@@ -110,16 +110,21 @@ __Features Left to Implement__
 ## Validator Testing
 
 - HTML 
-  - No errors came back when passed through W3C HTML Validator but one warning came back.
+  - A warning came back on both gallery.html and index.html. An error came back for signup.html when passed through W3C HTML Validator. I am happy with the outcome of the test as all work and can be submitted as normal
 
 - CSS
   - No errors came back when passed through W3C CSS Validator (Jigsaw)
   
   ![CSS validation](https://github.com/KnightJC/Jacks-Gym/assets/123365090/515b17fa-a82d-4691-95db-10c1438ce25c)
 
+  __Usability Testing__
+
+  - I sent this to my partner and a few friends to test it out. I had them check to ensure all links worked and the website was responsive on different screen resolutions. As stated prior, I also checked this in inspect element using the dimensions tool to change between different screen sizes.
+  - I wanted to carry out further testing on my website and used [Wave](https://wave.webaim.org/) This was to check to make sure the website worked well with screen readers.
+
  
  
-- Accessibility
+__Accessibility__
   - The colors and fonts chosen are easy and readable when running it through lighthouse devtools
   
  ![Accessibility] (https://github.com/KnightJC/Jacks-Gym/blob/main/media/accessibility%20score.png)
