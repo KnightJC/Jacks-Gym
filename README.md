@@ -55,7 +55,8 @@ __Gallery__
 
 - The gallery section will show you all the people training in the club alongside all the class that are involved. Showing you the facility around you as well as the hard work and dedication people have.
 
-![Gallery of members] (https://github.com/KnightJC/Jacks-Gym/blob/main/media/gallery%20section.png)
+![gallery section](https://github.com/KnightJC/Jacks-Gym/assets/123365090/be39c560-e813-461e-bbfa-5366d133829d)
+
 
 
 
